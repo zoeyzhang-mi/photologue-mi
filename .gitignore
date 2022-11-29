@@ -1,0 +1,11 @@
+.DS_Store
+*__pycache__*
+django_photologue.egg-info
+build
+.idea
+example_project/db.sqlite3
+htmlcov
+.coverage
+
+# Tox workfiles
+.tox/*
